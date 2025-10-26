@@ -39,6 +39,15 @@ I love solving problems, optimizing performance, and exploring new tech—whethe
 
 <br/>
 
+<!-- Java & Spring -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data"/>
+<img src="https://img.shields.io/badge/JPA-2C8EBB?style=for-the-badge&logo=java&logoColor=white" alt="JPA"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+
+<br/>
+
 <!-- APIs -->
 <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge" alt="REST"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
@@ -72,29 +81,38 @@ I love solving problems, optimizing performance, and exploring new tech—whethe
 
 ## 🌟 Featured Projects
 
-<table>
+<table align="center" style="width:100%; max-width:1100px;">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/Akash9611/PDF_Chat_Stack_GenAI_RAG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=PDF_Chat_Stack_GenAI_RAG&theme=react" width="350"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=PDF_Chat_Stack_GenAI_RAG&theme=react" alt="PDF Chat Stack GenAI RAG" style="max-width:100%;"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.vedion.ai/">
-        <img src="https://img.shields.io/badge/Vedion%20AI-%23007ACC.svg?&style=for-the-badge&logo=ai&logoColor=white" width="350"/>
+        <img src="https://img.shields.io/badge/Vedion%20AI-%23007ACC.svg?&style=for-the-badge&logo=ai&logoColor=white" alt="Vedion AI" style="max-width:100%;"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Akash9611/Search_job_create_job_applications_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Search_job_create_job_applications_project&theme=react" alt="Search Job Create Job Applications Project" style="max-width:100%;"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Akash9611/Search_job_create_job_applications_project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Search_job_create_job_applications_project&theme=react" width="350"/>
+    <td align="center" width="33%">
+      <a href="https://github.com/Akash9611/Drag_and_Drop_boxes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Drag_and_Drop_boxes&theme=react" alt="Drag and Drop Boxes" style="max-width:100%;"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Akash9611/Drag_and_Drop_boxes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Drag_and_Drop_boxes&theme=react" width="350"/>
+    <td align="center" width="33%">
+      <a href="https://github.com/Akash9611/React-Spring-Boot-Fullstack-Application-Employee-Management-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=React-Spring-Boot-Fullstack-Application-Employee-Management-&theme=react" alt="React Spring Boot Fullstack Employee Management" style="max-width:100%;"/>
       </a>
+    </td>
+    <td align="center" width="33%">
+      <!-- empty cell to keep columns aligned -->
+      &nbsp;
     </td>
   </tr>
 </table>
