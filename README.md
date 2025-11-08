@@ -122,7 +122,6 @@ I love solving problems, optimizing performance, and exploring new tech—whethe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash9611&show_icons=true&theme=react&hide_border=true" alt="Akash9611 GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash9611&theme=react&hide_border=true&layout=compact" alt="Akash9611 Top Languages"/>
 </div>
 
