@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akashdesai-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/akashdesai-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -22,7 +24,7 @@ Hi, I’m **Akash** — a **Full-Stack Software Engineer**, **AI Application Dev
 - 🚀 I build robust full-stack systems using **React.js, Node.js, Java, Spring Boot, PostgreSQL, AWS, and Docker**.
 - 🤖 I develop AI features with **Python, LLMs, RAG, AI Agents, MCP, LangChain, Prompt Engineering, and Vector Databases**.
 - ⚡ I care deeply about performance, clean architecture, DX, and production reliability.
-- 🎯 Open to roles: **Software Engineer • Full-Stack Engineer • AI Engineer • AI Application Developer**.
+- 🎯 Open to roles: **Software Engineer • Full-Stack Engineer • AI Engineer • AI Application Developer • AI Integration • AI Automation**.
 
 ---
 
@@ -94,56 +96,12 @@ Hi, I’m **Akash** — a **Full-Stack Software Engineer**, **AI Application Dev
 
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Akash9611/PDF_Chat_Stack_GenAI_RAG" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=PDF_Chat_Stack_GenAI_RAG&theme=tokyonight&hide_border=true" alt="PDF_Chat_Stack_GenAI_RAG"/>
-      </a>
-      <br/>
-      <sub>Chat-with-PDF GenAI app using React + FastAPI + LangChain RAG + Vector Search.</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Akash9611/Auto-Job-Applyer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Auto-Job-Applyer&theme=tokyonight&hide_border=true" alt="Auto-Job-Applyer"/>
-      </a>
-      <br/>
-      <sub>Apply for jobs in one click with automation-first workflow.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Akash9611/React-Spring-Boot-Fullstack-Application-Employee-Management-" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=React-Spring-Boot-Fullstack-Application-Employee-Management-&theme=tokyonight&hide_border=true" alt="React-Spring-Boot-Fullstack-Application-Employee-Management-"/>
-      </a>
-      <br/>
-      <sub>React + Spring Boot full-stack employee management system.</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Akash9611/postgreSQL_with_Sequelize_In_Nodejs-" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=postgreSQL_with_Sequelize_In_Nodejs-&theme=tokyonight&hide_border=true" alt="postgreSQL_with_Sequelize_In_Nodejs-"/>
-      </a>
-      <br/>
-      <sub>Node.js + Sequelize + PostgreSQL backend project.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Akash9611/Drag_and_Drop_boxes" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Drag_and_Drop_boxes&theme=tokyonight&hide_border=true" alt="Drag_and_Drop_boxes"/>
-      </a>
-      <br/>
-      <sub>Interactive drag-and-drop UI project built with JavaScript, HTML, and CSS.</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Akash9611/Nextjs-project-with-reactjs" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash9611&repo=Nextjs-project-with-reactjs&theme=tokyonight&hide_border=true" alt="Nextjs-project-with-reactjs"/>
-      </a>
-      <br/>
-      <sub>Next.js learning project focused on TypeScript-first frontend architecture.</sub>
-    </td>
-  </tr>
-</table>
+- [PDF_Chat_Stack_GenAI_RAG](https://github.com/Akash9611/PDF_Chat_Stack_GenAI_RAG) — Chat-with-PDF GenAI app using React + FastAPI + LangChain RAG + Vector Search.
+- [Auto-Job-Applyer](https://github.com/Akash9611/Auto-Job-Applyer) — Apply for jobs in one click with automation-first workflow.
+- [React-Spring-Boot-Fullstack-Application-Employee-Management-](https://github.com/Akash9611/React-Spring-Boot-Fullstack-Application-Employee-Management-) — React + Spring Boot full-stack employee management system.
+- [postgreSQL_with_Sequelize_In_Nodejs-](https://github.com/Akash9611/postgreSQL_with_Sequelize_In_Nodejs-) — Node.js + Sequelize + PostgreSQL backend project.
+- [aws-lambdaFunction-with-aws_RDS_Postgress_Nodejs-by-using_Claudia](https://github.com/Akash9611/aws-lambdaFunction-with-aws_RDS_Postgress_Nodejs-by-using_Claudia) — AWS Lambda + RDS PostgreSQL + Node.js serverless implementation.
+- [Vedion.ai (External Project)](https://www.vedion.ai/) — AI-focused external product/project experience.
 
 ---
 
